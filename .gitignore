@@ -1,3 +1,7 @@
-\venv
-\*.csv
-\data
+venv/
+*.csv
+*.pyc
+data/
+.env
+.DS_Store
+--pycache--/
